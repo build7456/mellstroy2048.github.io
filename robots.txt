@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mellstroy2048.fun/sitemap.xml
